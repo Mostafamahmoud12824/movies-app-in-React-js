@@ -27,5 +27,5 @@ Start the development server: npm start
 Contributing
 Contributions are welcome! If you'd like to contribute to the project, please follow our contribution guidelines.
 
-### the screenshot of code 
+## the screenshot of code 
 ![Screenshot code   ui](https://github.com/Mostafamahmoud12824/movies-app-in-React-js/assets/62766443/6a54ea5e-2df1-4010-b52f-7ed45c851848)
