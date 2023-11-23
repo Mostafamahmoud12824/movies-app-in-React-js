@@ -1,7 +1,7 @@
-#Overview
+# Overview
 This is a dynamic movies app built using React.js, designed to provide users with a seamless and interactive experience for exploring and discovering information about various movies. The application leverages modern web technologies to deliver a responsive and engaging user interface.
 
-#Features
+## Features
 Browse Movies: Explore a vast collection of movies with details such as title, release date, genre, and synopsis.
 
 Search Functionality: Easily find movies by searching for titles or keywords. The app dynamically updates the results as you type.
@@ -19,7 +19,7 @@ The Movie Database (TMDb) API: Utilized for fetching movie data and images.
 
 CSS Modules: Localized styling for components to maintain a clean and scalable codebase.
 
-### Getting Started
+## Getting Started
 Clone the repository: git clone https://github.com/your-username/react-movies-app.git
 Install dependencies: npm install
 Start the development server: npm start
